@@ -1,7 +1,7 @@
 Fuzzy query analyzer for Elasticsearch
 ======================================
 
-Requires Elasticsearch 2.2.x
+Requires Elasticsearch 2.2.x or 2.3.x
 
 This plugin provides analyzer and token filter that generate
 misspelled word variants. This can be used to implement "fuzzy"
